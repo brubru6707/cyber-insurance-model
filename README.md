@@ -2,7 +2,7 @@
 
 This repository archives a project from my junior year of high school for the AICE Global Perspectives class. It's a dynamic, web-based simulation built with HTML, CSS, and JavaScript that models and visualizes the financial outcomes of companies with and without cyber insurance.
 
-The simulation was built to accompany a presentation (see `UX442_700_Presentation.pptx`) on the growing threat of cyber-attacks and the value of cyber insurance as a solution.
+The simulation was built to accompany a presentation on the growing threat of cyber-attacks and the value of cyber insurance as a solution.
 
 
 ## How the Simulation Works
